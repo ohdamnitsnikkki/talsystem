@@ -1,0 +1,13 @@
+Utveckling och förbättringar av programmet
+
+Använda loop för inmatning
+I stället för att upprepa samma kod flera gånger kan programmet använda en loop för att läsa in talen från användaren.
+Det gör koden kortare, mer flexibel och enklare att ändra om man vill öka eller minska antalet inmatade tal.
+
+Hantering av felinmatning
+För närvarande orsakar ogiltig inmatning ett felmeddelande (Error) i terminalen.
+Detta kan förbättras genom att använda en while-loop som fortsätter be användaren om inmatning tills ett giltigt heltal matas in.
+
+Tydliga felmeddelanden till användaren
+För att göra programmet mer användarvänligt bör det visa ett instruktivt felmeddelande vid felinmatning.
+Meddelandet kan förklara vad som gick fel och ge exempel på hur en korrekt inmatning ska se ut.
